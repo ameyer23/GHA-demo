@@ -34,4 +34,4 @@ This repository demonstrates how to create and run a basic GitHub Actions workfl
 The GitHub Actions workflow successfully executed and printed "Hello World" in the logs.
 
 ## Reference
-[Video tutorial here.]([https://link-url-here.org](https://www.youtube.com/watch?v=ylEy4eLdhFs&ab_channel=AutomationStepbyStep))
+[Video tutorial here.](https://link-url-here.org](https://www.youtube.com/watch?v=ylEy4eLdhFs&ab_channel=AutomationStepbyStep)
